@@ -8,4 +8,3 @@ Sistema para gestionar historiales médicos mediante:
 - 📱 **App Android** (interfaz médica)
 - ☁️ **Supabase** (base de datos en la nube)
 
-## 🗂️ Estructura del repositorio
